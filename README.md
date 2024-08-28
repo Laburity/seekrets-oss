@@ -1,3 +1,13 @@
+<h1 align="center">
+  <br>
+  <a href="https://github.com/Laburity/seekrets-oss"><img src="https://i.ibb.co/JQpyNwC/Transparent-PNG-file.png" height="200" width="600" alt="Seekrets"></a>
+  <br>
+  Seekrets
+  <br>
+</h1>
+
+<h4 align="center">A basic Secret Scanning tool</h4>
+
 # seekrets-oss
 
 Seekerts - A Supply Chain Secret Scanning tool that detects hidden secrets inside code ;)
